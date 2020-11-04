@@ -1,0 +1,108 @@
+{
+  "Name": "Diwali Banner 1",
+  "thumbnail": "",
+  "Layers": [
+    {
+      "id":"layer_0",
+      "path": ""
+    },
+    {
+      "id":"layer_1",
+      "path": ""
+    },
+    {
+      "id":"layer_2",
+      "path": ""
+    }
+  ],
+  "User_Images": [
+  {
+    "id": "image_0",
+    "layout_w": 1080,
+    "layout_h": 1920,
+    "layout_x": 540,
+    "layout_y": 960,
+    "Is_Round": "NO"
+  },
+  {
+    "id": "image_1",
+    "layout_w": 1080,
+    "layout_h": 1920,
+    "layout_x": 540,
+    "layout_y": 960,
+    "Is_Round": "NO"
+  }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 35,
+      "layout_y": 15,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": -20,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 10,
+      "margin_bottom": 0,
+      "text": "Valentine's Day",
+      "color": "#ffffff",
+      "font_category": "Calligraphy",
+      "font_name": "Calligraphy 6",
+      "size": 0.25,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 6,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    },
+    {
+      "id": 1,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 86.25,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
+      "color": "#ffffff",
+      "font_category": "Basic",
+      "font_name": "Basic 1",
+      "size": 0.06,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    }
+  ]
+}
