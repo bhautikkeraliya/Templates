@@ -1,37 +1,35 @@
 {
   "Name": "Diwali Banner 1",
   "thumbnail": "",
+  "template_size_type": "",
+  "template_price": "Free",
   "Layers": [
     {
       "id":"layer_0",
-      "path": ""
+      "path": "https://raw.githubusercontent.com/bhautikkeraliya/Templates/main/1/T1/layer_1.png"
     },
     {
       "id":"layer_1",
-      "path": ""
-    },
-    {
-      "id":"layer_2",
-      "path": ""
+      "path": "https://raw.githubusercontent.com/bhautikkeraliya/Templates/main/1/T1/layer_2.png"
     }
   ],
   "User_Images": [
-  {
-    "id": "image_0",
-    "layout_w": 1080,
-    "layout_h": 1920,
-    "layout_x": 540,
-    "layout_y": 960,
-    "Is_Round": "NO"
-  },
-  {
-    "id": "image_1",
-    "layout_w": 1080,
-    "layout_h": 1920,
-    "layout_x": 540,
-    "layout_y": 960,
-    "Is_Round": "NO"
-  }
+    {
+      "id": "image_0",
+      "layout_w": 1080,
+      "layout_h": 1920,
+      "layout_x": 540,
+      "layout_y": 960,
+      "Is_Round": "NO"
+    },
+    {
+      "id": "image_1",
+      "layout_w": 1080,
+      "layout_h": 1920,
+      "layout_x": 540,
+      "layout_y": 960,
+      "Is_Round": "NO"
+    }
   ],
   "texts": [
     {
@@ -104,5 +102,17 @@
       "underLine": false,
       "strikethrough": false
     }
-  ]
+  ],
+  "User_Logo_Position": {
+    "layout_w": 1080,
+    "layout_h": 1920,
+    "layout_x": 540,
+    "layout_y": 960
+  },
+  "User_MobileNumber_Position": {
+    "layout_w": 1080,
+    "layout_h": 1920,
+    "layout_x": 540,
+    "layout_y": 960
+  }
 }
