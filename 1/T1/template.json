@@ -16,18 +16,18 @@
   "User_Images": [
     {
       "id": "image_0",
-      "layout_w": 1080,
-      "layout_h": 1920,
-      "layout_x": 540,
-      "layout_y": 960,
+      "layout_w": 810,
+      "layout_h": 727,
+      "layout_x": 570,
+      "layout_y": 540,
       "Is_Round": "NO"
     },
     {
       "id": "image_1",
-      "layout_w": 1080,
-      "layout_h": 1920,
-      "layout_x": 540,
-      "layout_y": 960,
+      "layout_w": 858,
+      "layout_h": 733,
+      "layout_x": 1020,
+      "layout_y": 1836,
       "Is_Round": "NO"
     }
   ],
