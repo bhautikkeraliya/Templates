@@ -66,41 +66,6 @@
       "align": "center",
       "underLine": false,
       "strikethrough": false
-    },
-    {
-      "id": 1,
-      "layout_id": -1,
-      "layout_x": 50,
-      "layout_y": 86.25,
-      "position": {
-        "center": null,
-        "right": null,
-        "top": null,
-        "left": null,
-        "bottom": null
-      },
-      "rotate": 0,
-      "scale": 1,
-      "layout_padding": false,
-      "padding_left": 0,
-      "padding_right": 0,
-      "margin_top": 0,
-      "margin_bottom": 0,
-      "text": "The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
-      "color": "#ffffff",
-      "font_category": "Basic",
-      "font_name": "Basic 1",
-      "size": 0.06,
-      "gradient": null,
-      "tile_mode": null,
-      "gradient_type": null,
-      "linear_direction": null,
-      "opacity": 255,
-      "letter_spacing": 0,
-      "line_spacing": 10,
-      "align": "center",
-      "underLine": false,
-      "strikethrough": false
     }
   ],
   "User_Logo_Position": {
